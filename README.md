@@ -2,6 +2,9 @@
 ## 📸 Preview
 
 ![Preview](BarberKing(1).png)
+[](BarberKing(2).png)
+[](BarberKing(3).png)
+[](BarberKing(4).png)
 Modern and responsive landing page for BarberKing, a fictional barbershop designed to showcase services and attract customers.
 
 ## 🛠️ Tech
